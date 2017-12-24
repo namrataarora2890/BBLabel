@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Broadband Label App</string>
+    <string name="action_settings">Settings</string>
+    <!--string name="title_activity_second">Choose a telecom circle and technology</string-->
+    <string name="title_activity_new">Star rating</string>
+    <string name="country_prompt">Choose a country</string>
+    <string name="Technology_prompt">Choose a technology</string>
+    <string name="TelecomCircle_prompt">Choose a Telecom Circle</string>
+    <string name="xyz">Choose a Telecom Circle and Technology to see Star Rating  of popular applications . </string>
+    <!--string-array name="country_arrays">
+        <item>Malaysia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array-->
+</resources>
